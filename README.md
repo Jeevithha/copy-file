@@ -32,7 +32,9 @@ f1.close()
 f2.close()
 ```
 ### OUTPUT:
-![image](https://github.com/Jeevithha/copy-file/assets/123623197/6bdc7a26-2fc0-4c85-9600-95db9160f094)
+![image](https://github.com/Jeevithha/copy-file/assets/123623197/f497f719-310a-4b30-a1d8-a415d89679af)
+
+![image](https://github.com/Jeevithha/copy-file/assets/123623197/af016342-d6ea-45d2-8125-214c968104fc)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
